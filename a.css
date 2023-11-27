@@ -16,15 +16,15 @@
 }
 #date{
     font-size: 60px;
-    margin-top: -800px;
-    margin-left: 600px;
+    margin-top: -780px;
+    margin-left: 580px;
     color:grey;
     font-weight: 540;
     
 }
 #time{
     font-size: 60px;
-    margin-top: 90px;
+    margin-top: 60px;
 
     margin-left: 700px;
     color:grey;
@@ -33,7 +33,7 @@
 }
 #randomNumber{
     font-size: 60px;
-    margin-top: 20px;
+    margin-top: 30px;
 
     margin-left: 700px;
    
