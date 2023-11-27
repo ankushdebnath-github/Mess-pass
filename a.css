@@ -1,0 +1,42 @@
+.a{
+    width:1200px;
+    height: 150px;
+    font-size: 40px;
+    color:white;
+    background-color: rgb(62, 61, 61);
+  margin-left: -10px;
+  margin-top: -10px;
+}
+.body{
+    left:0;
+}
+.b{
+    width: 1180px;
+    height: auto;
+}
+#date{
+    font-size: 60px;
+    margin-top: -800px;
+    margin-left: 635px;
+    color:grey;
+    font-weight: 540;
+    
+}
+#time{
+    font-size: 60px;
+    margin-top: 110px;
+
+    margin-left: 750px;
+    color:grey;
+    font-weight: 540;
+
+}
+#randomNumber{
+    font-size: 60px;
+    margin-top: 140px;
+
+    margin-left: 700px;
+   
+    font-weight: 580;
+    opacity: 0.8;
+}
